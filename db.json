@@ -1,0 +1,28 @@
+{
+  "pessoas": [
+    {
+      "nome": "Lavanda",
+      "idade": "Pequeno",
+      "cpf": "123.456.789-00",
+      "id": 1
+    },
+    {
+      "nome": "Hibisco",
+      "idade": "Pequeno",
+      "cpf": "111.222.333-44",
+      "id": 2
+    },
+    {
+      "nome": "Girassol",
+      "idade": "Médio",
+      "cpf": "999.888.777-66",
+      "id": 3
+    },
+    {
+      "nome": "Papoula",
+      "idade": "Pequeno",
+      "cpf": "123",
+      "id": 4
+    }
+  ]
+}

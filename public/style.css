@@ -1,0 +1,240 @@
+
+*{
+    font-family: 'Poppins', sans-serif;
+  }
+
+  body{
+    background-image: url("img/fundo7.jpg");  
+    background-size: 100%;
+  }
+
+  /* Estilos para o cabeçalho */
+
+  .header {
+    margin-top: 100px;
+    margin-left: 50px;
+    text-align: center;
+  }
+  
+  .header a {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: #520000;
+    color: white;
+    border-radius: 20px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .header a:hover {
+    background-color: #6d0000;
+  }
+
+  /* LOGIN */
+
+  .login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+  }
+  
+  .login-form {
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(136, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .login-form h2 {
+    margin-bottom: 20px;
+    color: #3b0000;
+  }
+  
+  .input-group {
+    margin-bottom: 20px;
+    text-align: left;
+  }
+  
+  .input-group label {
+    display: block;
+    margin-bottom: 5px;
+    color: #666;
+  }
+  
+  .input-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #610000;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    background-color: #660000;
+  }
+  
+  .bottom-text {
+    margin-top: 20px;
+    color: #666;
+
+    
+  }
+  
+  .bottom-text a {
+    color: #940000;
+    text-decoration: none;
+  }
+  
+  .bottom-text a:hover {
+    text-decoration: underline;
+  }
+
+
+/* Estilos para a tabela */
+table {
+  border-collapse: collapse;
+  width: 80%;
+  margin-top: 20px;
+}
+
+th, td {
+  border: 1px solid #a1a1a1;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #440000;
+  color: white;
+}
+
+/* Estilos para o formulário */
+form {
+  width: 80%;
+  margin-top: 20px;
+}
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+  color: #333;
+}
+
+input[type="text"], input[type="number"] {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type="submit"] {
+  background-color: #333;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: #555;
+}
+
+
+form {
+  text-align: center;
+  margin-top: 20px;
+}
+
+h3 {
+  font-family: 'Poppins', sans-serif;
+  color: #333;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type="button"] {
+  background-color: #630000;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type="button"]:hover {
+  background-color: #6d0000;
+}
+
+form {
+  text-align: center;
+  margin: 0 auto;
+  max-width: 300px; /* Define a largura máxima do formulário */
+}
+
+h3 {
+  font-family: 'Poppins', sans-serif;
+  color: #333;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input[type="text"], input[type="button"] {
+  width: 50%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type="button"] {
+  background-color: #5c0000;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type="button"]:hover {
+  background-color: #550000;
+}
+
+
+
+
+
+
+
+
+
+
